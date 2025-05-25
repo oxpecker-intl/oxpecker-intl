@@ -6,10 +6,8 @@
   - Early-stage **automation** projects or **agent-based** systems
   - Open-source utilities for **ITSM**, **DevOps**, or **workflow orchestration**
 - 🧠 Currently open to speaking opportunities, joint ventures, and contributing to high-impact consulting teams.
-- 📫 How to reach me:  
-  Email: `yourname@yourdomain.com`  
-  LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-  Portfolio: [your-website.com](https://your-website.com) <!-- Optional -->
+- 📫 [https://michi05.github.io/card](https://michi05.github.io/card)
+- [MiguelGGLez @LinkedIn:](https://www.linkedin.com/in/miguelgglez/)  
 - ⚡ Ask me about my nomad lifestyle!
 
 
