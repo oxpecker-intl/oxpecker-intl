@@ -6,7 +6,7 @@
   - Early-stage **automation** projects or **agent-based** systems
   - Open-source utilities for **ITSM**, **DevOps**, or **workflow orchestration**
 - 🧠 Currently open to speaking opportunities, joint ventures, and contributing to high-impact consulting teams.
-- 📫 [https://michi05.github.io/card](https://michi05.github.io/card)
+- 📫 [https://cv.garlez.me/card](https://cv.garlez.me/card)
 - [MiguelGGLez @LinkedIn:](https://www.linkedin.com/in/miguelgglez/)  
 - ⚡ Ask me about my nomad lifestyle!
 
