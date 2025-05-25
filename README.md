@@ -15,18 +15,15 @@
 see some practical tools, code snippets and SN configurations that I use in real SN work and client projects:
 
 ##### Tools
-- **Postman** – Preconfigured collections for ServiceNow API, MID Server auth, and REST testing
-- **ServiceNow CLI** – Custom command-line utilities for fast sys_id lookups, imports, and table exports
-- **VSCode Setup** – My preferred extensions and settings for scoped app development
-- **UIPath Studio** – Designing unattended automations triggered via ServiceNow or webhooks
-- **Zapier / Pipedream** – Lightweight automation prototypes and quick SaaS integrations
+- **SN Utils** – must have chromium extension for any SN consultant, developer or admin
+- **VSCode with extensions** – Currently testing **cline** in anger for chrome extensions
+- **ChatGPT + Gemini** – for PoC web designs 
+- **Postman** – Even the web version has been super helful for testing and debugging
 
-##### Snippets
+##### Snippets (update pending)
 - `business-rule-template.js` – Guarded scoped business rule with change detection
-- `scripted-rest-api.js` – Scaffold for ServiceNow custom REST endpoints
-- `transform-map-script.js` – Logic to clean and normalize imported customer data
-- `flow-designer-step.js` – Reusable script for Flow Designer steps
-- `uipath-trigger.json` – Sample payload to start a robot via UIPath Orchestrator API
+- `script-incl-template.js` – 
+- `ui-action-template.js` – 
 
 > WORK IN PROGRESS: all snippets will be published in a standalone repo with usage notes and search.
 
